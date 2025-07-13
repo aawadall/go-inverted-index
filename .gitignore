@@ -1,0 +1,4 @@
+# ignore golang generated artifacts
+# go build artifacts
+
+# go test artifacts
